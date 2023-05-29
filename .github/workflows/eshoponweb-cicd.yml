@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: akmg-cloud-azure-apps
-  LOCATION: germanywestcentral
+  LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5b84530d-e5b7-4cc3-974d-76509ead3199
   WEBAPP-NAME: az400-akmg-webapp
