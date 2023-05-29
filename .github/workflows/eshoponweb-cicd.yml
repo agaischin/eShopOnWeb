@@ -9,7 +9,7 @@ env:
   LOCATION: germanywestcentral
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5b84530d-e5b7-4cc3-974d-76509ead3199
-  WEBAPP-NAME: az400-webapp-akmg-eshop
+  WEBAPP-NAME: az400-akmg-webapp
 
 
 jobs:
